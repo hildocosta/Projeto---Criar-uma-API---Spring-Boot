@@ -48,18 +48,21 @@ src/main/java
 
 ---
 
-4. **Implementar uma Controller Simples:**  
+3.1 **Implementar uma Controller Simples:**  
    - Utilize a classe `ApiController` para criar endpoints básicos da API.  
 
-5. **Adicionar a funcionalidade de leitura de tarefas:**  
+3.2 **Adicionar a funcionalidade de leitura de tarefas:**  
    - Implemente um endpoint GET que retorna uma lista de tarefas.  
 
-6. **Implementar a funcionalidade de cadastro de tarefas:**  
+3.3 **Implementar a funcionalidade de cadastro de tarefas:**  
    - Adicione um endpoint POST para cadastrar novas tarefas enviadas no corpo da requisição (JSON).  
 
-7. **Criar a funcionalidade de limpar todas as tarefas:**  
+3.4 **Criar a funcionalidade de limpar todas as tarefas:**  
    - Implemente um endpoint DELETE para excluir todas as tarefas existentes no sistema.
-   - 
+
+     
+---
+
 
 ### 4. 🚀 Tecnologias Utilizadas  
 
